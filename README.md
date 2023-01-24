@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rishukumar Pandey</h1>
 <h3 align="center">Coding Enthusiast</h3>
